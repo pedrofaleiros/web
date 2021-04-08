@@ -6,7 +6,11 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(40, 40, 40);
-    background-image: none;
+    background-image: url(escola-2.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    
 }
 
 section{
